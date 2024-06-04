@@ -37,4 +37,4 @@ Follow these steps to set up the project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/BabyAce/basic-node-api.git
+   git clone https://github.com/AcePauloCotejo/basic-node-api.git
